@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahzad-Minhaj.
 - 👀 I’m interested in Computers.
 - 🌱 I’m currently learning Web and Mobile App Development at Saylani Mass IT, Peshawar.
-- 💞️ I’m looking to get some tough tasks in Web Development in order to polish my Skills.
+- 💞️ I’m looking forward to start my career in Web Development in order to polish my Skills.
 - 📫 You can reach me Via Email; sminhaj.suit@gmail.com.
 
 <!---
